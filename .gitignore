@@ -161,4 +161,4 @@ cython_debug/
 #.idea/
 
 #models
-ggml-model-Q4_K_M.gguf
+openhermes-2-mistral-7b.Q4_K_M.gguf
