@@ -1,0 +1,23 @@
+# Core LangChain stack
+langchain
+langchain-community
+langchain-core
+sentence-transformers
+qdrant-client
+ctransformers
+
+# Backend: FastAPI
+fastapi
+uvicorn[standard]
+
+# Templates + static files
+jinja2
+
+# PDF loading
+pypdf
+
+# Optional: To auto-reload during dev
+watchfiles
+
+# Optional: for JSON encoding
+orjson
