@@ -2,6 +2,7 @@
 
 This project is an advanced **Retrieval-Augmented Generation (RAG)** application designed to answer **biomedical questions** using AI and domain-specific document search. It leverages **BioBERT embeddings**, a **local quantized Mistral-based LLM**, and **FastAPI** for a lightweight and deployable medical chatbot experience.
 
+Video Demo - [YouTube](https://youtu.be/wOGWTzy-kc0)
 ---
 
 ## Features
